@@ -25,3 +25,6 @@ mikrotik-capsman-ipam
 ## Thanks to:
 https://github.com/BenMenking/routeros-api
 
+## Screenshot:
+![alt text](https://github.com/germaguire/mikrotik-capsman-ipam/blob/main/devices.png?raw=true)
+
