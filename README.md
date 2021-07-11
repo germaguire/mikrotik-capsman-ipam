@@ -3,11 +3,12 @@ mikrotik-capsman-ipam
 
 ## Mikrotik CAPSMAN IPAM Features:
 * Add/Edit/Delete IP address
-* Add ARP Scan details
-* Add NMAP details
-* Add Mikrotik Neighbours details
-* Add Mikrotik DHCP detils
-* Update Mikrotik Wireless Registration details
+* Add ARP Scan details (ip, mac)
+* Add NMAP details (ip, mac)
+* Add Mikrotik Neighbours details (ip, mac, hostname)
+* Add Mikrotik DHCP detils (ip, mac, hostname, DHCP Comment)
+* Update Mikrotik CAPSMAN Registration details (ap, snr)
+* Update Mikrotik Wireless Registration details (snr)
 * Update Mikrotik API Details
   * system identity
   * routerboard model
