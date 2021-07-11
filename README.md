@@ -19,8 +19,7 @@ mikrotik-capsman-ipam
 * Enable Mikrotik API service
 **	create read only user for accessing API details.
 * NMAP installed using sudo required for OS Scanning
--	Modify /etc/sudoers/nmap file 
--	(www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap
+-	Modify /etc/sudoers/nmap file ( www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap )
 
 * Fping required for polling devices.
 
