@@ -21,7 +21,7 @@ mikrotik-capsman-ipam
   * apt-get install apache2 php7.2 libapache2-mod-php libapache2-mod-php7.2 php7.2-sqlite3 nmap fping
 
 * Enable Mikrotik API service (create read only user for accessing API details).
-* 
+
 * NMAP installed using sudo required for OS Scanning, create /etc/sudoers/nmap file 
   * www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap
 
