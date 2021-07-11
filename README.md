@@ -9,8 +9,8 @@ mikrotik-capsman-ipam
 * Add Mikrotik DHCP detils
 * Update Mikrotik Wireless Registration details
 * Update Mikrotik API Details
-- system identity
-- routerboard model
+-- system identity
+-- routerboard model
 * NMAP hostscan
 
 ## Requirements:
