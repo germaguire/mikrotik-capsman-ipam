@@ -12,6 +12,7 @@ mikrotik-capsman-ipam
   * system identity
   * routerboard model
 * NMAP hostscan
+* Fping device polling
 
 ## Requirements:
 * Tested on ubuntu.
