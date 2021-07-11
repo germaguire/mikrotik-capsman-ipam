@@ -13,6 +13,7 @@ mikrotik-capsman-ipam
   * system identity (hostname)
   * routerboard model (model)
 * NMAP hostscan
+* MAC Address Lookup
 * Fping device polling
 * SQLite database.
 
