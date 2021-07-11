@@ -9,7 +9,7 @@ mikrotik-capsman-ipam
 * Add Mikrotik DHCP detils (ip, mac, hostname, DHCP Comment)
 * Update Mikrotik CAPSMAN Registration details (ap, snr)
 * Update Mikrotik Wireless Registration details (snr)
-* Update Mikrotik API Details
+* Update Mikrotik Details
   * system identity
   * routerboard model
 * NMAP hostscan
