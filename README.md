@@ -5,13 +5,13 @@ mikrotik-capsman-ipam
 * Add/Edit/Delete IP address
 * Add ARP Scan details (ip, mac)
 * Add NMAP details (ip, mac)
-* Add Mikrotik Neighbours details (ip, mac, hostname)
-* Add Mikrotik DHCP detils (ip, mac, hostname, DHCP Comment)
-* Update Mikrotik CAPSMAN Registration details (ap, snr)
-* Update Mikrotik Wireless Registration details (snr)
+* Add Mikrotik Neighbours details (ip, mac, hostname, model)
+* Add Mikrotik DHCP details (ip, mac, hostname, DHCP Comment)
+* Update Mikrotik CAPSMAN Registration details (ap, mac, snr)
+* Update Mikrotik Wireless Registration details (mac, snr)
 * Update Mikrotik Details
-  * system identity
-  * routerboard model
+  * system identity (hostname)
+  * routerboard model (model)
 * NMAP hostscan
 * Fping device polling
 * SQLite database.
