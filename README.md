@@ -1,7 +1,7 @@
 mikrotik-capsman-ipam
 =============
 
-## Mikrotik IPAM Features:
+## Mikrotik CAPSMAN IPAM Features:
 * Add/Edit/Delete IP address
 * Add ARP Scan details
 * Add NMAP details
