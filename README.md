@@ -25,7 +25,6 @@ mikrotik-capsman-ipam
 * NMAP installed using sudo required for OS Scanning, create /etc/sudoers/nmap file 
   * www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap
 
-* Fping required for polling devices.
 
 ## Thanks to:
 https://github.com/BenMenking/routeros-api
