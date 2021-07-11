@@ -19,7 +19,8 @@ mikrotik-capsman-ipam
 * Tested on ubuntu.
 * SQLite DB.
 * Enable Mikrotik API service (create read only user for accessing API details).
-* NMAP installed using sudo required for OS Scanning, create /etc/sudoers/nmap file ( www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap )
+* NMAP installed using sudo required for OS Scanning, create /etc/sudoers/nmap file 
+  * www-data ALL=(ALL) NOPASSWD: /usr/bin/nmap
 * Fping required for polling devices.
 
 ## Thanks to:
